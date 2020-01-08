@@ -1,2 +1,2 @@
-# MySite_DgnrSJ
-My personal website including about me and by Blogs
+# MySite:-dgnrsj.me
+My portfolio and blogging website.
